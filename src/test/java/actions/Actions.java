@@ -57,7 +57,7 @@ public static String id="";
 
     public void checkGetProductById() {
         System.out.println("Stored ID = " + id);
-
+//moh
         Response response = RestAssured.given()
                 .baseUri(Base.URL)
                 .header("Content-Type", "application/json")
