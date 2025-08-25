@@ -1,0 +1,5 @@
+{
+    "name": "Laptop",
+    "price": 1200,
+    "_id": "68ab0a615f3bb303e89be76c"
+}

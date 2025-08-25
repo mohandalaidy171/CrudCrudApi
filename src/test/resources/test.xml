@@ -1,0 +1,11 @@
+<suite name="CrudCrud API Suite" verbose="1" parallel="false">
+    <test name="CRUD Operations Test">
+        <classes>
+            <class name="tests.AddNewProduct"/>
+            <class name="tests.GetAllProduct"/>
+            <class name="tests.UpdateProduct"/>
+            <class name="tests.GetProductById"/>
+            <class name="tests.DeleteProductById"/>
+        </classes>
+    </test>
+</suite>

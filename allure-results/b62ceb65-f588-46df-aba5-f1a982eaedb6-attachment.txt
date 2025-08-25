@@ -1,0 +1,5 @@
+{
+    "name": "sami",
+    "price": 44,
+    "_id": "68ab74a45f3bb303e89be7ab"
+}

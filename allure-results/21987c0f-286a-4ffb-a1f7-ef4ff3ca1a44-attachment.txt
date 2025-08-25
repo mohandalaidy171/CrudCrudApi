@@ -1,0 +1,5 @@
+{
+    "name": "Keyboard",
+    "price": 300,
+    "_id": "68ab0b8f5f3bb303e89be772"
+}

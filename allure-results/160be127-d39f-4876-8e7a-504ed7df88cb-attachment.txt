@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "68ab6bd75f3bb303e89be7a5",
+        "name": "khled",
+        "age": 30
+    },
+    {
+        "_id": "68ab6e2f5f3bb303e89be7a6",
+        "name": "mohannad",
+        "price": 27
+    },
+    {
+        "_id": "68ab6e315f3bb303e89be7a7",
+        "name": "sami",
+        "price": 44
+    }
+]
